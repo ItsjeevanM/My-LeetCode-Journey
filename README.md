@@ -62,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->

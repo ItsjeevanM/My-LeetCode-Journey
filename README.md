@@ -14,15 +14,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0015-3sum) |
+| [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->

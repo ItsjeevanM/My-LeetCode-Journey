@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0098-validate-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->

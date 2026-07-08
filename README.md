@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0169-majority-element) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0169-majority-element) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0098-validate-binary-search-tree) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Database
 |  |
 | ------- |

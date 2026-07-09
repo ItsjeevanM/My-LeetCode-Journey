@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Counting

@@ -61,8 +61,6 @@ public:
                 matrix[0][j] = 0;
             }
         }
-
-        // Phase 6
         if(firstcolzero)
         {
             for(int i = 0; i < m; i++)

@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0048-rotate-image) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0206-reverse-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

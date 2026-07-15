@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0048-rotate-image) |
+| [2396-strictly-palindromic-number](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

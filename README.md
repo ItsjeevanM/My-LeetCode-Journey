@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0206-reverse-linked-list) |

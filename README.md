@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0940-distinct-subsequences-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0940-distinct-subsequences-ii) |
 ## Tree
 |  |
 | ------- |

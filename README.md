@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0835-image-overlap](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0835-image-overlap) |
 ## Math
 |  |
 | ------- |

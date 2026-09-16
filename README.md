@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0048-rotate-image) |
 | [0836-rectangle-overlap](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0877-stone-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2396-strictly-palindromic-number](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3870-count-commas-in-range) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->

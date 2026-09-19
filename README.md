@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -364,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

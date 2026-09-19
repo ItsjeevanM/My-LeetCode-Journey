@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0836-rectangle-overlap) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0115-distinct-subsequences) |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0877-stone-game) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |

@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0205-isomorphic-strings) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0876-middle-of-the-linked-list) |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

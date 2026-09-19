@@ -15,8 +15,6 @@ public:
                 count--;
             }
         }
-
-
             int count1 = 0;
             for(int i =0 ;i<n;i++){
                 if(nums[i] == element){

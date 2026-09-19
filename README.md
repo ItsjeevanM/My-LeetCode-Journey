@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2396-strictly-palindromic-number](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |

@@ -12,7 +12,6 @@ public:
         for(int i = 0;i<minlength;i++){
             if(start[i] != last[i]) break;
             ans += start[i];
-
         }
         return ans;
     }

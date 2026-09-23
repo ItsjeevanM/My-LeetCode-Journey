@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Database
 |  |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Geometry
 |  |

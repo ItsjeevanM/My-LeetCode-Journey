@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0485-max-consecutive-ones) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -424,4 +427,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

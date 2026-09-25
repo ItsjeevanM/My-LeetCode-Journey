@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0410-split-array-largest-sum) |

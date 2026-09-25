@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3498-reverse-degree-of-a-string) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0112-path-sum) |
+| [1096-brace-expansion-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -387,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1096-brace-expansion-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
 | ------- |

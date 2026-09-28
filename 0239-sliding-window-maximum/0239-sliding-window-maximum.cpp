@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        int left = 0;
         int n = nums.size();
 
         vector<int>answer;

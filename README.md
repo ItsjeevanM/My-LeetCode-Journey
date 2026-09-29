@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0835-image-overlap) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0112-path-sum) |
 | [1096-brace-expansion-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -462,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->

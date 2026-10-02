@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<string> res;
-
     void backtrack(string curr, int open, int close, int n) {
         if (curr.size() == 2 * n) {
             res.push_back(curr);

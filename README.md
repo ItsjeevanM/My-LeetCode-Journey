@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0940-distinct-subsequences-ii) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1021-remove-outermost-parentheses) |

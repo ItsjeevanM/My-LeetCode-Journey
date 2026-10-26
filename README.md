@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0796-rotate-string) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsjeevanM/My-LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
